@@ -58,7 +58,7 @@
 <br />
 <div id="step2">
 <h3>2. Preview content templates</h3><a name="drop" class="anchor"></a>
-<p> - Click through the menu below to preview the different content templates using your site's own css. When you like a template, click "Apply Now" to add the file to your content folder.</p>
+<p> - Click through the menu below to preview the different content templates using your site's own css. When you like a template, click "Apply Now" to add the file to your content folder</p>
 <style>
 #dropdowns {display:table; width:100%;border-bottom:3px solid gray;}
 #dropdowns div {display:table-cell; width:20%;}
