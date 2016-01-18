@@ -1,2 +1,2 @@
 
-Webpage template preview module for use within A-Plus CMS
+Webpage template preview module for use within client CMS
